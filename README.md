@@ -1,89 +1,93 @@
-<h1 align="center">Hey <img src="https://github.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30">, I'm Bilal Mardini</h1>
+<!-- Bilal Mardini GitHub Profile -->
 
-<div align='center'>
+<h1 align="center">
+  Hey&nbsp;<img src="https://raw.githubusercontent.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30"/>, I'm <span style="color:#58a6ff">Bilal Mardini</span>
+</h1>
+
+<div align="center">
   <b>
-  Full Stack Web Developer specialized in Laravel, Node.js, React & Vue.js.<br/>
-  Passionate about creating high-performance web apps with clean, maintainable code and seamless user experiences.
+  🚀 Full-Stack Web Developer specialized in Laravel, Node.js, React & Vue.js<br/>
+  💻 Passionate about building secure, scalable, and elegant web apps that deliver outstanding user experiences.
   </b>
 </div>
+
 <hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilalmardini&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-mardini" />
-  <a href="mailto:bilal.mardini1999@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bilal.mardini1999@gmail.com">
-  </a>
-  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bilal-mardini-dev">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=bilalmardini&label=Profile%20Views&color=0e75b6&style=flat" alt="bilal-mardini" />
+  <a href="mailto:bilal.mardini1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/bilalmardini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 About Me
+---
 
-- 💼 Experienced in **Laravel**, **Node.js**, **React**, **Vue.js**, **JavaScript**, **PHP**, and **RESTful APIs**  
-- 🧠 Always learning new technologies to stay up-to-date with modern web trends  
-- ⚙️ Skilled in backend architecture, database design, and responsive UI/UX  
-- 💬 Ask me about full-stack app development or modern web tools  
-- 🚀 Check out my projects [here](https://github.com/bilalmardini?tab=repositories)
+## 🧑‍💻 About Me
 
-<br>
+- 🌍 Based in **Syria**, available for remote collaboration  
+- 💼 Experienced in **Laravel**, **Node.js**, **React**, **Vue.js**, **PHP**, and **RESTful APIs**  
+- 🧠 Currently exploring **TypeScript**, **Next.js**, and **Docker orchestration**  
+- ⚙️ Skilled in **database design**, **authentication systems**, and **responsive UI/UX**  
+- 🧩 Strong focus on **clean architecture**, **code quality**, and **team collaboration**  
+- 🚀 Check out my latest projects 👉 [github.com/bilalmardini?tab=repositories](https://github.com/bilalmardini?tab=repositories)
+
+---
 
 <div align="center">
 
-### 🧩 Programming Languages
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/></a>
+### 🧩 Languages
+<a><img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp" height="50"/></a>
 
 ### ⚙️ Frameworks & Libraries
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45" alt="Laravel"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45" alt="Vue.js"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind"/></a>
+<a><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,vue,nextjs,bootstrap,tailwind" height="50"/></a>
 
 ### 🗄️ Databases
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/></a>
+<a><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" height="50"/></a>
 
 ### 🧰 Tools & DevOps
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/></a>
+<a><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,postman,vscode,figma" height="50"/></a>
 
 </div>
 
 ---
 
-<div align="center" class="contact-me">
-  <h3>📫 Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:bilal.mardini1999@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="30" width="40" />
-  </a>
-</div>
+## 🌟 Featured Projects
 
-<br>
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🛍️ **E-Commerce Platform** | A full-stack marketplace with admin dashboard, payment gateway, and product analytics | Laravel · Vue.js · MySQL |
+| 🗂️ **TaskFlow** | Team collaboration app with real-time notifications and role-based access | Node.js · React · MongoDB |
+| 💬 **ChatSphere** | Live chat web app supporting private rooms, emojis, and media upload | Laravel · Socket.io · Vue.js |
+| 📊 **Portfolio CMS** | Personal portfolio with dynamic content management | Laravel · Bootstrap · SQLite |
 
-<div align='center'>
-  <img align='center' src='https://github-readme-stats.vercel.app/api?username=bilalmardini&count_private=true&show_icons=true&theme=tokyonight&hide_border=true' width='45%' alt='bilal-mardini'>
-  <img align='center' src='https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true' width='45%' alt='bilal-mardini'>
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalmardini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="46%" alt="Bilal Mardini Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true" width="46%" alt="Bilal Mardini Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&theme=tokyonight&hide_border=true"
-       alt="most-used-languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="mailto:bilal.mardini1999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://github.com/bilalmardini" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://bilalmardini.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css" height="45"/></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
 </div>
