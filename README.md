@@ -45,7 +45,7 @@
 <a><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,elasticsearch" height="50"/></a>
 
 ### 🧰 Tools & DevOps
-<a><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,postman,vscode,figma,jira,webpack,terraform,aws,azure,gcp" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,postman,vscode,figma,webpack,terraform,aws,azure,gcp" height="50"/></a>
 
 </div>
 
