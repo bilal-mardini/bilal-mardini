@@ -1,7 +1,7 @@
 <!-- Bilal Mardini GitHub Profile -->
 
 <h1 align="center">
-  Hey&nbsp;<img src="https://raw.githubusercontent.com/ashraftryfie/ashraftryfie/assets/108266434/ae0a82c8-18a2-4b83-a501-d3c44f586250" width="30"/>, I'm <span style="color:#58a6ff">Bilal Mardini</span>
+  Hey&nbsp;, I'm <span style="color:#58a6ff">Bilal Mardini</span>
 </h1>
 
 <div align="center">
@@ -49,18 +49,6 @@
 
 </div>
 
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🛍️ **E-Commerce Platform** | A full-stack marketplace with admin dashboard, payment gateway, and product analytics | Laravel · Vue.js · MySQL |
-| 🗂️ **TaskFlow** | Team collaboration app with real-time notifications and role-based access | Node.js · React · MongoDB |
-| 💬 **ChatSphere** | Live chat web app supporting private rooms, emojis, and media upload | Laravel · Socket.io · Vue.js |
-| 📊 **Portfolio CMS** | Personal portfolio with dynamic content management | Laravel · Bootstrap · SQLite |
-
----
 
 ## 📈 GitHub Stats
 
