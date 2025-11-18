@@ -53,7 +53,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalmardini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="46%" alt="Bilal Mardini Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true" width="46%" alt="Bilal Mardini Streak"/>
 </div>
 
@@ -71,7 +70,6 @@
   <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="mailto:bilal.mardini1999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <a href="https://github.com/bilalmardini" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="https://bilalmardini.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css" height="45"/></a>
 </div>
 
 ---
