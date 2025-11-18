@@ -36,16 +36,16 @@
 <div align="center">
 
 ### 🧩 Languages
-<a><img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=php,js,ts,cpp,csharp" height="50"/></a>
 
 ### ⚙️ Frameworks & Libraries
-<a><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,vue,nextjs,bootstrap,tailwind" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,vue,nextjs,bootstrap,tailwind,vite" height="50"/></a>
 
 ### 🗄️ Databases
-<a><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,elasticsearch" height="50"/></a>
 
 ### 🧰 Tools & DevOps
-<a><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,postman,vscode,figma" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,postman,vscode,figma,jira,webpack,terraform,aws,azure,gcp" height="50"/></a>
 
 </div>
 
