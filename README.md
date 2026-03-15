@@ -1,69 +1,66 @@
 <h1 align="center">
-  Hey 👋, I'm <span style="color:#58a6ff">Bilal Mardini</span>
+  Hi there, I'm <span style="color:#58a6ff">Bilal Mardini</span> 👋
 </h1>
 
-<div align="center">
-  <b>
-  🚀 Full-Stack Web Developer specialized in Laravel, NestJS, React & Node.js<br/>
-  💻 Passionate about building secure, scalable web apps and real-time systems.
-  </b>
-</div>
+<p align="center">
+  <a href="https://github.com/bilalmardini">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Laravel,+NestJS+%26+React+Expert;Building+Secure+%26+Scalable+Systems;Passionate+about+Clean+Architecture" alt="Typing SVG" />
+  </a>
+</p>
 
-<hr/>
+<p align="center">
+  <a href="mailto:bilal.mardini1999@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/bilalmardini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bilalmardini&label=Profile%20Views&color=0e75b6&style=flat" alt="bilal-mardini" />
-  <a href="mailto:bilal.mardini1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/bilalmardini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌍 Based in **Syria**, available for remote collaboration  
-- 💼 Experienced in **Laravel**, **NestJS**, **React**, **Node.js**, and building robust **RESTful & Real-time APIs** - 🧠 Currently focused on **TypeScript**, **Microservices architecture**, and **Docker containerization** - ⚙️ Skilled in **PostgreSQL/MySQL**, **Prisma ORM**, **S3-compatible storage (MinIO)**, and **Socket.io** - 🛡️ Strong knowledge in **Server Administration (Apache/Nginx, VPS, SSL)** and **CI/CD pipelines (GitLab/GitHub)** - 🧩 Strong focus on **clean architecture**, **code quality**, and **team collaboration** - 🚀 Check out my latest projects 👉 [github.com/bilalmardini?tab=repositories](https://github.com/bilalmardini?tab=repositories)
+- 🌍 Based in **Syria**, available for remote collaboration.
+- 💼 Experienced in **Laravel**, **NestJS**, **React**, and **Node.js** to build robust **RESTful & Real-time APIs**.
+- 🧠 Currently focused on **TypeScript**, **Microservices architecture**, and **Docker containerization**.
+- ⚙️ Skilled in **PostgreSQL/MySQL**, **Prisma ORM**, **S3-compatible storage (MinIO)**, and **Socket.io**.
+- 🛡️ Strong knowledge of **Server Administration (Apache/Nginx, VPS, SSL)** and **CI/CD pipelines (GitLab/GitHub)**.
+- 🧩 Passionate about **clean architecture**, **code quality**, and **team collaboration**.
 
----
+<br/>
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-### 🧩 Languages
-<a><img src="https://skillicons.dev/icons?i=php,ts,js,cpp,csharp" height="50"/></a>
-
-### ⚙️ Frameworks & Libraries
-<a><img src="https://skillicons.dev/icons?i=laravel,nestjs,express,react,vue,nextjs,prisma,bootstrap,tailwind,vite" height="50"/></a>
-
-### 🗄️ Databases
-<a><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,elasticsearch" height="50"/></a>
-
-### 🧰 Tools & DevOps
-<a><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,ubuntu,linux,bash,postman,vscode,figma,aws" height="50"/></a>
-
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=php,ts,js,cpp,csharp" height="40"/>
+  
+  <br/>
+  <p><strong>Frameworks & Libraries</strong></p>
+  <img src="https://skillicons.dev/icons?i=laravel,nestjs,express,react,vue,nextjs,prisma,bootstrap,tailwind,vite" height="40"/>
+  
+  <br/>
+  <p><strong>Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,elasticsearch" height="40"/>
+  
+  <br/>
+  <p><strong>DevOps & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,ubuntu,linux,bash,postman,vscode,figma,aws" height="40"/>
 </div>
 
----
+<br/>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true" width="48%" alt="Bilal Mardini Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=python,jupyter%20notebook,html,css" width="48%" alt="Top Languages"/>
-</p>
-
----
-
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bilal-mardini-dev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:bilal.mardini1999@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://github.com/bilalmardini" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Bilal Mardini Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=5&hide=python,jupyter%20notebook,html,css" width="48%" alt="Top Languages"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </div>
