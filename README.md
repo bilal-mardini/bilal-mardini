@@ -55,8 +55,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Bilal Mardini Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=5&hide=python,jupyter%20notebook,html,css" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="Bilal Mardini Streak"/>
+
 </div>
 
 <br/>
