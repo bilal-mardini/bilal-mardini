@@ -23,14 +23,14 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in **Syria**, available for remote collaboration  
-- 💼 Experienced in **Laravel**, **NestJS**, **React**, **Node.js**, and building robust **RESTful & Real-time APIs** - 🧠 Currently focused on **TypeScript**, **Microservices architecture**, and **Docker containerization** - ⚙️ Skilled in **PostgreSQL/MySQL**, **Prisma ORM**, **S3-compatible storage (MinIO)**, and **Socket.io** - 🧩 Strong focus on **clean architecture**, **CI/CD pipelines (GitLab/GitHub)**, and **code quality** - 🚀 Check out my latest projects 👉 [github.com/bilalmardini?tab=repositories](https://github.com/bilalmardini?tab=repositories)
+- 💼 Experienced in **Laravel**, **NestJS**, **React**, **Node.js**, and building robust **RESTful & Real-time APIs** - 🧠 Currently focused on **TypeScript**, **Microservices architecture**, and **Docker containerization** - ⚙️ Skilled in **PostgreSQL/MySQL**, **Prisma ORM**, **S3-compatible storage (MinIO)**, and **Socket.io** - 🛡️ Strong knowledge in **Server Administration (Apache/Nginx, VPS, SSL)** and **CI/CD pipelines (GitLab/GitHub)** - 🧩 Strong focus on **clean architecture**, **code quality**, and **team collaboration** - 🚀 Check out my latest projects 👉 [github.com/bilalmardini?tab=repositories](https://github.com/bilalmardini?tab=repositories)
 
 ---
 
 <div align="center">
 
 ### 🧩 Languages
-<a><img src="https://skillicons.dev/icons?i=ts,js,php,cpp,csharp" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=php,ts,js,cpp,csharp" height="50"/></a>
 
 ### ⚙️ Frameworks & Libraries
 <a><img src="https://skillicons.dev/icons?i=laravel,nestjs,express,react,vue,nextjs,prisma,bootstrap,tailwind,vite" height="50"/></a>
@@ -39,7 +39,7 @@
 <a><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,elasticsearch" height="50"/></a>
 
 ### 🧰 Tools & DevOps
-<a><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,linux,postman,vscode,figma,aws" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,ubuntu,linux,bash,postman,vscode,figma,aws" height="50"/></a>
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true" width="48%" alt="Bilal Mardini Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=python,jupyter%20notebook,html,css" width="48%" alt="Top Languages"/>
 </p>
 
 ---
