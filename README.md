@@ -1,13 +1,11 @@
-<!-- Bilal Mardini GitHub Profile -->
-
 <h1 align="center">
-  Hey&nbsp;, I'm <span style="color:#58a6ff">Bilal Mardini</span>
+  Hey 👋, I'm <span style="color:#58a6ff">Bilal Mardini</span>
 </h1>
 
 <div align="center">
   <b>
-  🚀 Full-Stack Web Developer specialized in Laravel, Node.js, React & Vue.js<br/>
-  💻 Passionate about building secure, scalable, and elegant web apps that deliver outstanding user experiences.
+  🚀 Full-Stack Web Developer specialized in Laravel, NestJS, React & Node.js<br/>
+  💻 Passionate about building secure, scalable web apps and real-time systems.
   </b>
 </div>
 
@@ -25,43 +23,34 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in **Syria**, available for remote collaboration  
-- 💼 Experienced in **Laravel**, **Node.js**, **React**, **Vue.js**, **PHP**, and **RESTful APIs**  
-- 🧠 Currently exploring **TypeScript**, **Next.js**, and **Docker orchestration**  
-- ⚙️ Skilled in **database design**, **authentication systems**, and **responsive UI/UX**  
-- 🧩 Strong focus on **clean architecture**, **code quality**, and **team collaboration**  
-- 🚀 Check out my latest projects 👉 [github.com/bilalmardini?tab=repositories](https://github.com/bilalmardini?tab=repositories)
+- 💼 Experienced in **Laravel**, **NestJS**, **React**, **Node.js**, and building robust **RESTful & Real-time APIs** - 🧠 Currently focused on **TypeScript**, **Microservices architecture**, and **Docker containerization** - ⚙️ Skilled in **PostgreSQL/MySQL**, **Prisma ORM**, **S3-compatible storage (MinIO)**, and **Socket.io** - 🧩 Strong focus on **clean architecture**, **CI/CD pipelines (GitLab/GitHub)**, and **code quality** - 🚀 Check out my latest projects 👉 [github.com/bilalmardini?tab=repositories](https://github.com/bilalmardini?tab=repositories)
 
 ---
 
 <div align="center">
 
 ### 🧩 Languages
-<a><img src="https://skillicons.dev/icons?i=php,js,ts,cpp,csharp" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=ts,js,php,cpp,csharp" height="50"/></a>
 
 ### ⚙️ Frameworks & Libraries
-<a><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,vue,nextjs,bootstrap,tailwind,vite" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=laravel,nestjs,express,react,vue,nextjs,prisma,bootstrap,tailwind,vite" height="50"/></a>
 
 ### 🗄️ Databases
-<a><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,elasticsearch" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,elasticsearch" height="50"/></a>
 
 ### 🧰 Tools & DevOps
-<a><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,postman,vscode,figma,webpack,terraform,aws,azure,gcp" height="50"/></a>
+<a><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,linux,postman,vscode,figma,aws" height="50"/></a>
 
 </div>
 
+---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true" width="46%" alt="Bilal Mardini Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&langs_count=1" width="48%" alt="Most Used Language: PHP"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilalmardini&theme=tokyonight&hide_border=true" width="48%" alt="Bilal Mardini Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmardini&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="48%" alt="Top Languages"/>
+</p>
 
 ---
 
